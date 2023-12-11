@@ -18,5 +18,5 @@ Hack Cameras
 
 # Camera-Hack
 
-<img src="https://github.com/LiZ4rDTeam/Camera-Hack/blob/master/screenshot.png">
+<img src="https://github.com/LiZ4rDTeam/Camera-Hack/blob/main/screenshot.png">
 
